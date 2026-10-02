@@ -1,0 +1,45 @@
+{
+  "name": "ZOE_CONSOLE_240x220_PRINT",
+  "box_mm": [
+    240,
+    220,
+    65
+  ],
+  "main_parts": [
+    "01_BOX_BODY",
+    "02_LID_FRONT",
+    "03_LID_REAR"
+  ],
+  "source": {
+    "name": "ZOE_400_ASSEMBLY",
+    "timeline": 190,
+    "modified": true
+  },
+  "printer": "Bambu Lab A1 256x256x256",
+  "material": "PLA",
+  "speaker_mm": [
+    120,
+    33
+  ],
+  "pi_pcb_mm": [
+    85,
+    56
+  ],
+  "tube_mm": [
+    25,
+    21,
+    116
+  ],
+  "clearances_mm": {
+    "lid_seam": 0.4,
+    "skirt_wall": 0.35,
+    "tube_bore_diametral": 0.4
+  },
+  "notes": [
+    "Original aircraft document is not modified or saved by this script.",
+    "Printed fit parts use nominal dimensions; test tube fit and real cable plugs before full assembly.",
+    "Reference electronics, soft pads, rubber feet and metal backing plate are not PLA print parts.",
+    "No screen/battery compartments have been added. Static model; load/stability/thermal tests not performed."
+  ],
+  "screw_pillar_webs": true
+}
