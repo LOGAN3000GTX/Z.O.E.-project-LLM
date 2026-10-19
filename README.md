@@ -24,6 +24,8 @@ Example commands include:
 
 ## How It Works
 
+![ZOE workflow: voice input through Whisper and Qwen, Python command validation, servo and RGB control, and a spoken response through Fish Audio. The planned vision connection is shown with dashed arrows.](docs/images/zoe-llm-workflow.png)
+
 ```mermaid
 flowchart LR
     A["Voice input<br/>Jabra microphone"] --> B["Whisper.cpp<br/>Speech to text"]
