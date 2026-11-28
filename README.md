@@ -3,7 +3,7 @@
 
 ZOE is a stationary robotic aircraft inspired by the Z.O.E. concept from the Ace Combat series. It combines a local language model, voice interaction, servo-controlled canards, RGB engine lighting and a camera in a custom 3D-printed enclosure.
 
-The project is developed for the **Introduction to Robotics** course at **Kazakhstan-British Technical University**.
+The project is developed for the **Intelegence robot** course at **Kazakhstan-British Technical University**.
 
 > **Status:** Working bench prototype with mechanical assembly and vision integration in progress. The aircraft is a tabletop robot and does not fly.
 
